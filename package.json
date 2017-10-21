@@ -1,0 +1,14 @@
+{
+  "name": "node-jasmine-sublime-tutorial",
+  "version": "1.0.0",
+  "description": "This is a tutorial for building a develeopment & testing platform for javascript projects",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=test/config/jasmine.json"
+  },
+  "author": "Anirban Dutta",
+  "license": "ISC"
+}
